@@ -1,0 +1,93 @@
+<!-- Product List -->
+
+    <div class="container-fluid bg-light">
+        <div class="container px-4 py-2">
+
+
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-4 py-5">
+
+                <!-- 1 -->
+                <div class="col d-flex align-items-start py-2 product-item">
+                    <div>
+                        <i class="bi bi-heart d-flex justify-content-end fs-4 me-2"></i>
+                        <!--  -->
+                        <img src="https://cdn.pixabay.com/photo/2017/01/06/00/45/computer-1956711__340.png" alt=""
+                            class="img-fluid mt-2">
+
+                        <h4 class="text-center mt-2"> Dell Laptop </h4>
+                        <!--  -->
+                        <div class="row mt-3 mx-4">
+                            <div class="col-md-6 col-6 col-xl-6 col-xxl-6 col-sm-6 col">
+                                <p class="fs-5 fw-bold">RS : 22449</p>
+                            </div>
+
+                            <div class="col-md-6 col-6 col-xl-6 col-xxl-6 col-sm-6 col text-end">
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- 2 -->
+                <div class="col d-flex align-items-start product-item">
+                    <div>
+                        <i class="bi bi-heart d-flex justify-content-end fs-4 me-2"></i>
+                        <!--  -->
+                        <img src="https://cdn.pixabay.com/photo/2017/08/07/22/21/technology-2608530__340.jpg" alt=""
+                            class="img-fluid mt-2">
+
+                        <h4 class="text-center mt-2"> Samusng Phone </h4>
+                        <!--  -->
+                        <div class="row mt-3 mx-4">
+                            <div class="col-md-6 col-6 col-xl-6 col-xxl-6 col-sm-6 col">
+                                <p class="fs-5 fw-bold">RS : 14999</p>
+                            </div>
+
+                            <div class="col-md-6 col-6 col-xl-6 col-xxl-6 col-sm-6 col text-end">
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <!-- 3 -->
+                <div class="col d-flex align-items-start product-item">
+                    <div>
+                        <i class="bi bi-heart d-flex justify-content-end fs-4 me-2"></i>
+                        <!--  -->
+                        <img src="https://cdn.pixabay.com/photo/2016/10/24/21/03/appliance-1767311__340.jpg" alt=""
+                            class="img-fluid mt-2">
+
+                        <h4 class="text-center mt-2"> Fridge </h4>
+                        <!--  -->
+                        <div class="row mt-3 mx-4">
+                            <div class="col-md-6 col-6 col-xl-6 col-xxl-6 col-sm-6 col">
+                                <p class="fs-5 fw-bold">RS : 11999 </p>
+                            </div>
+
+                            <div class="col-md-6 col-6 col-xl-6 col-xxl-6 col-sm-6 col text-end">
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                                <i class="bi bi-star-fill"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- product List  -->
